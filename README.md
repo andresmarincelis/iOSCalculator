@@ -9,7 +9,6 @@ Una aplicación de calculadora simple creada con **React Native** y **TypeScript
 - React Native
 - TypeScript
 - Hooks personalizados (`useCalculator`)
-- Tailwind (si estás usando)
 - ESLint / Prettier (opcional)
 
 ---
@@ -55,16 +54,10 @@ npx react-native run-android
 
 > Asegúrate de tener un emulador o dispositivo conectado.
 
----
-
-## 📝 Pendientes / Mejoras futuras
-
-- ***
-
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT — puedes usarlo, modificarlo y compartirlo libremente.
 
 ---
 
-Desarrollado con ❤️ por **Andrés Marín**
+Desarrollado cpor **Andrés Marín**
