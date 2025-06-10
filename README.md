@@ -60,4 +60,4 @@ Este proyecto está bajo la licencia MIT — puedes usarlo, modificarlo y compar
 
 ---
 
-Desarrollado cpor **Andrés Marín**
+Desarrollado por **Andrés Marín**
