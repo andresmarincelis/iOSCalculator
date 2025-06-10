@@ -1,0 +1,26 @@
+# ninja log v5
+5	50	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+1	12060	7532127576282053	CMakeFiles/appmodules.dir/C_/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	4ab736b8360f2f46
+4	12723	7532127583026056	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9e8056368f7f628d
+12723	12983	7532127585730013	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/build/intermediates/cxx/Debug/1m5j4n1d/obj/arm64-v8a/libappmodules.so	692be691f9e24974
+15	62	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+4	55	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+3	51	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+17	66	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+4	29	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+26	73	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+3	28	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+4	42	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+3	37	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+27	109	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+3	37	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+25	94	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+4	28	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+27	111	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+4	32	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+8	56	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+8	36	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+28	115	0	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/.cxx/Debug/1m5j4n1d/arm64-v8a/CMakeFiles/cmake.verify_globs	972a86d4a3735275
+54	23883	7533965657152799	CMakeFiles/appmodules.dir/C_/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	4ab736b8360f2f46
+59	24505	7533965663199278	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9e8056368f7f628d
+24506	24909	7533965667577047	C:/Users/midpa/Documents/REACTNATIVE/iosCalculator/android/app/build/intermediates/cxx/Debug/1m5j4n1d/obj/arm64-v8a/libappmodules.so	692be691f9e24974
