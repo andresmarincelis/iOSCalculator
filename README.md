@@ -8,8 +8,8 @@ Una aplicación de calculadora simple creada con **React Native** y **TypeScript
 
 - React Native
 - TypeScript
-- Hooks personalizados (`useCalculator`)
-- ESLint / Prettier (opcional)
+- Hooks personalizados
+- ESLint / Prettier
 
 ---
 
